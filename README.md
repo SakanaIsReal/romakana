@@ -1,6 +1,6 @@
 # RomaKana - Chrome Extension  
 
-A simple Chrome extension that converts selected **Romaji** text into **Hiragana, Katakana and **copies the result to the clipboard**.  
+A simple Chrome extension that converts selected **Romaji** text into **Hiragana, Katakana** then **copies the result to the clipboard**.  
 
 ![Demo](demo.gif)  
 
